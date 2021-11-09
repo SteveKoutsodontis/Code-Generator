@@ -5,7 +5,7 @@
 > This Code-Generator is able to create a password with a set of prompts to the user. It includes an array of Special Characters, Full Alphabet lower and upper case and numbers.
 The range can be from 8 to 128 characters. Also alerts the user if requirements are not met in order to create the password.
 
-![Desktop](assets/images/Code-Generator_1.jpg)
+![Desktop](./assets/images/Code-Generator_1.jpg)
 
  ## Getting Started:
 
